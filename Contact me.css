@@ -1,0 +1,17 @@
+body{
+    background-color: pink ;
+    
+}
+
+p{
+    color: black;
+}   
+.about{
+    margin-top: 10%;
+    border-radius: 20px;
+    margin: auto;
+    width: 60%;
+    text-align: center;
+    border: solid;
+    background-color: black;
+}
